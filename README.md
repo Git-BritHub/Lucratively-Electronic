@@ -14,21 +14,16 @@ ORM E-commerce Back End
 Lucratively Electronic provides the back end software for e-commerce companies desiring that competitve edge in the e-commerce market. Utilizing Express.js API, this app incorporates Sequelize to interact with its MySQL database.
 
 ## Installation
-1. Clone my respository by inputting the following in your terminal:
-<br />
- `git clone https://github.com/Git-BritHub/Lucratively-Electronic.git`
+1. Clone my respository by inputting the following in your terminal: `git clone https://github.com/Git-BritHub/Lucratively-Electronic.git`
 
 2. When cloning is complete, input `cd Lucratively-Electronic`
 3. Next, install the needed package dependencies by running `npm i`
 4. Important: make sure to create and set up your .env file for your data base name, MySQL username and password.
 5. Once your .env file is created, copy and paste the following into your .env file and fill in your needed MySQL user name and password information inside the single quotes:
 
-<p>     DB_NAME='ecommerce_db'</p>
-<br />
-<p>     DB_USER=''</p>
-<br />
-<p>     DB_PW=''</p>
-<br />
+    <p>DB_NAME='ecommerce_db'</p>
+    <p>DB_USER=''</p>
+    <p>DB_PW=''</p>
 
 ## Usage
 Utilizing Express Front End routing and MySQL database, this application requires MySQL and Node.
