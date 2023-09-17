@@ -22,12 +22,13 @@ Lucratively Electronic provides the back end software for e-commerce companies d
 3. Next, install the needed package dependencies by running `npm i`
 4. Important: make sure to create and set up your .env file for your data base name, MySQL username and password.
 5. Once your .env file is created, copy and paste the following into your .env file and fill in your needed MySQL user name and password information inside the single quotes:
+
+<p>     DB_NAME='ecommerce_db'</p>
 <br />
-    DB_NAME='ecommerce_db'
-    <br />
-    DB_USER=''
-    <br />
-    DB_PW=''
+<p>     DB_USER=''</p>
+<br />
+<p>     DB_PW=''</p>
+<br />
 
 ## Usage
 Utilizing Express Front End routing and MySQL database, this application requires MySQL and Node.
