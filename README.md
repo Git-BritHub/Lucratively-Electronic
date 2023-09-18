@@ -17,25 +17,23 @@ Lucratively Electronic provides the back end software for e-commerce companies d
 
 ## Installation
 1. Clone my respository by inputting the following in your terminal: `git clone https://github.com/Git-BritHub/Lucratively-Electronic.git`
-
 2. When cloning is complete, input `cd Lucratively-Electronic`
 3. Next, install the needed package dependencies by running `npm i`
-4. Important: make sure to create and set up your .env file for your data base name, MySQL username and password.
-5. Once your .env file is created, copy and paste the following into your .env file and fill in your needed MySQL user name and password information inside the single quotes:
+4. Important: make sure to create and set up your `.env` file for your data base name, MySQL username and password.
+5. Once your `.env` file is created, copy and paste the following into your `.env` file and fill in your needed MySQL user name and password information inside the single quotes:
 
-    <p>DB_NAME='ecommerce_db'<br />
-       DB_USER=''<br />
-       DB_PW=''<br /></p>
+    <p>DB_NAME='ecommerce_db'<br/>
+       DB_USER=''<br/>
+       DB_PW=''<br/></p>
 
 
 ## Usage
-Utilizing Express Front End routing and MySQL database, this application requires MySQL and Node.
-<br />
+Utilizing Express Front End routing and MySQL database, this application requires MySQL and Node.<br />
 
 1. Input `npm run seed` in the repo's main terminal to run the schema.
 2. Next, input `npm run seed data` so that data can be added.
 3. Lastly, input `npm run start` in your terminal to launch the app.
-4. If you would like to test your routes at any point, open Insomnia and feel free to follow my walkthrough in the Test section of this README. 
+4. If you would like to test your routes at any point, open Insomnia and feel free to follow my walkthrough in the [Tests](#tests) section of this README. 
 <br />
 
 ![alt text](assets/images/screenshot.png)
