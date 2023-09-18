@@ -51,7 +51,7 @@ Utilizing Express Front End routing and MySQL database, this application require
 Performed on macOS with Insomnia
 <br />
 
-![alt text](assets/videos/LE.mp4)
+[Route Testing](assets/videos/LE.mp4)
 
 
 ## Questions
