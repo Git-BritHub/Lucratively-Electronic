@@ -10,8 +10,10 @@ ORM E-commerce Back End
 * [Tests](#tests)
 * [Questions](#questions)
 
+
 ## Description
 Lucratively Electronic provides the back end software for e-commerce companies desiring that competitve edge in the e-commerce market. Utilizing Express.js API, this app incorporates Sequelize to interact with its MySQL database.
+
 
 ## Installation
 1. Clone my respository by inputting the following in your terminal: `git clone https://github.com/Git-BritHub/Lucratively-Electronic.git`
@@ -25,6 +27,7 @@ Lucratively Electronic provides the back end software for e-commerce companies d
        DB_USER=''<br />
        DB_PW=''<br /></p>
 
+
 ## Usage
 Utilizing Express Front End routing and MySQL database, this application requires MySQL and Node.
 <br />
@@ -32,8 +35,11 @@ Utilizing Express Front End routing and MySQL database, this application require
 1. Input `npm run seed` in the repo's main terminal to run the schema.
 2. Next, input `npm run seed data` so that data can be added.
 3. Lastly, input `npm run start` in your terminal to launch the app.
+4. If you would like to test your routes at any point, open Insomnia and feel free to follow my walkthrough in the Test section of this README. 
 <br />
+
 ![alt text](assets/images/screenshot.png)
+
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -42,9 +48,11 @@ Utilizing Express Front End routing and MySQL database, this application require
 * Recieved company starter code from https://github.com/coding-boot-camp/fantastic-umbrella.git
 * Guidance and feedback from U of U Software Developer Tutor -- Jacob Nordan.
 
+
 ## Tests
 Performed on macOS with Insomnia
 <br />
+
 ![alt text](assets/videos/LE.mp4)
 
 
