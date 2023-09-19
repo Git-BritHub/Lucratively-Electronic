@@ -49,8 +49,6 @@ Utilizing Express Front End routing and MySQL database, this application require
 
 ## Demo
 Demo Route Testing performed on macOS with Insomnia
-<video width="320" height="240" controls><source src="/assets/videos/LE.mp4"type="video/mp4"></video>
-
 
 ## Questions
 If you find any bugs or have any questions, feel free to reach out to me through GitHub at https://github.com/Git-BritHub 
