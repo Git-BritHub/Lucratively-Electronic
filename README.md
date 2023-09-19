@@ -47,11 +47,9 @@ Utilizing Express Front End routing and MySQL database, this application require
 * Guidance and feedback from U of U Software Developer Tutor -- Jacob Nordan.
 
 
-## Tests
-Performed on macOS with Insomnia
-<br />
-
-[Route Testing](assets/videos/LE.mp4)
+## Demo
+Demo Route Testing performed on macOS with Insomnia
+<video width="320" height="240" controls><source src="/assets/videos/LE.mp4"type="video/mp4"></video>
 
 
 ## Questions
