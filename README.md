@@ -43,7 +43,7 @@ Utilizing Express Front End routing and MySQL database, this application require
 
 ## Contributing
 * Recieved company starter code from https://github.com/coding-boot-camp/fantastic-umbrella.git
-* Guidance and feedback from U of U Software Developer Tutor -- Jacob Nordan.
+* Guidance and feedback from Software Developer Tutor -- Jacob Nordan.
 
 
 ## Tests
