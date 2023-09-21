@@ -33,23 +33,22 @@ Utilizing Express Front End routing and MySQL database, this application require
 1. Input `npm run seed` in the repo's main terminal to run the schema.
 2. Next, input `npm run seed data` so that data can be added.
 3. Lastly, input `npm run start` in your terminal to launch the app.
-4. If you would like to test your routes at any point, open Insomnia and feel free to follow my walkthrough in the [Tests](#tests) section of this README. 
+4. When testing your routes, feel free to follow my Insomnia demo for this repo in the [Tests](#tests) section.
 <br />
-
 ![alt text](assets/images/screenshot.png)
 
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-aqua.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
 * Recieved company starter code from https://github.com/coding-boot-camp/fantastic-umbrella.git
 * Guidance and feedback from U of U Software Developer Tutor -- Jacob Nordan.
 
 
-## Demo
-Demo Route Testing performed on macOS with Insomnia
-[Route Testing](/assets/videos/LE.mp4)
+## Tests
+Route Testing performed on macOS with Insomnia\
+[Route Testing](https://drive.google.com/file/d/1wlkLhcMcWjf0_vQPQmXEC0Y8GPV2R10O/view)
 
 ## Questions
 If you find any bugs or have any questions, feel free to reach out to me through GitHub at https://github.com/Git-BritHub 
