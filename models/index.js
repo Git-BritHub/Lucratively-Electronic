@@ -28,6 +28,7 @@ Tag.belongsToMany(Product, {
   foreignKey: "tag_id"
 })
 
+// Packages models and exports them as an object so we can import them together and use their proper name
 module.exports = {
   Product,
   Category,
