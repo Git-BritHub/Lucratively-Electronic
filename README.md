@@ -35,6 +35,7 @@ Utilizing Express Front End routing and MySQL database, this application require
 3. Lastly, input `npm run start` in your terminal to launch the app.
 4. When testing your routes, feel free to follow my Insomnia demo for this repo in the [Tests](#tests) section.
 <br />
+
 ![alt text](assets/images/screenshot.png)
 
 
