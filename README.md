@@ -16,9 +16,9 @@ Lucratively Electronic provides the back end software for e-commerce companies d
 
 
 ## Installation
-1. Clone my respository by inputting the following in your terminal: `git clone https://github.com/Git-BritHub/Lucratively-Electronic.git`
-2. When cloning is complete, input `cd Lucratively-Electronic`
-3. Next, install the needed package dependencies by running `npm i`
+1. Clone my respository by inputting the following in your terminal: `git clone https://github.com/Git-BritHub/Lucratively-Electronic.git`.
+2. When cloning is complete, input `cd Lucratively-Electronic`.
+3. Next, install the needed package dependencies by running `npm i`.
 4. Important: make sure to create and set up your `.env` file for your data base name, MySQL username and password.
 5. Once your `.env` file is created, copy and paste the following into your `.env` file and fill in your needed MySQL user name and password information inside the single quotes:
 
@@ -44,7 +44,7 @@ Utilizing Express Front End routing and MySQL database, this application require
 
 ## Contributing
 * Recieved company starter code from https://github.com/coding-boot-camp/fantastic-umbrella.git
-* Guidance and feedback from Software Developer Tutor -- Jacob Nordan.
+* Guidance and feedback from Software Developer -- Jacob Nordan.
 
 
 ## Tests
